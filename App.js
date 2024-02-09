@@ -28,31 +28,31 @@ const styles = StyleSheet.create({
     backgroundColor: '#000000',
   },
   contentContainer: {
-    backgroundColor: '#FF0000', // Fondo rojo fosforescente
-    padding: 20, // Añadir espacio alrededor del contenedor
-    marginBottom: 20, // Espacio para separar el contenido de TextComponent
+    backgroundColor: '#FF0000', 
+    padding: 20, 
+    marginBottom: 20, 
   },
   titleContainer: {
-    marginBottom: 20, // Espacio para separar el título de la imagen
+    marginBottom: 20, 
   },
   title: {
-    fontSize: 24, // Ajustar el tamaño del título
+    fontSize: 24, 
     fontWeight: 'bold',
-    color: '#ffffff', // Cambiado el color del texto para que sea visible en el fondo rojo
+    color: '#ffffff', 
   },
   imageContainer: {
-    alignItems: 'center', // Centrar la imagen horizontalmente
+    alignItems: 'center', 
   },
   image: {
-    width: 150, // Ajustar el ancho de la imagen
-    height: 150, // Ajustar la altura de la imagen
-    borderRadius: 75, // Hacer la imagen circular
-    marginBottom: 20, // Espacio para separar la imagen del texto
+    width: 150, 
+    height: 150, 
+    borderRadius: 75, 
+    marginBottom: 20, 
   },
   textComponentContainer: {
-    backgroundColor: '#FF0000', // Fondo rojo fosforescente
-    padding: 20, // Espacio alrededor del componente de texto
-    borderRadius: 10, // Bordes redondeados
+    backgroundColor: '#FF0000', 
+    padding: 20, 
+    borderRadius: 10, 
   },
 });
 
